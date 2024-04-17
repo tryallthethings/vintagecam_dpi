@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vintagecam_dpi", "vintagecam_dpi\vintagecam_dpi.csproj", "{A960749B-88DF-4797-A204-25CF811E452A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A960749B-88DF-4797-A204-25CF811E452A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A960749B-88DF-4797-A204-25CF811E452A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A960749B-88DF-4797-A204-25CF811E452A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A960749B-88DF-4797-A204-25CF811E452A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8280B43A-C018-4757-BBE9-4CEE714CD391}
+	EndGlobalSection
+EndGlobal
